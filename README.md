@@ -80,10 +80,10 @@ I'm passionate about website coding, and I'm actively seeking opportunities to e
 
 Let's build the future of the web together! 💻✨
 
-## 📈 Stats
+<!--## 📈 Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
+-->
 ## 📫 Contact
 
 Feel free to reach out: kusumamunagala8686@gmail.com 
