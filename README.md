@@ -9,14 +9,14 @@ Welcome to my coding journey! I'm Kusuma, a first-class computer science undergr
   - *2021 – 2025*
   - *Guntur, Andhra Pradesh, India*
 
-- **Intermediate Education**
+<!--- **Intermediate Education**
   - *Bhashyam Junior College*
   - *2019 – 2021*
   - *Guntur, Andhra Pradesh, India*
 
 - **Bhashyam IIT Foundation Academy**
   -  2019*
-  - *Guntur, Andhra Pradesh, India*
+  - *Guntur, Andhra Pradesh, India*-->
 
 ## 🚀 Summary
 
